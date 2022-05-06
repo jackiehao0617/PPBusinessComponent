@@ -1,0 +1,22 @@
+{
+  "name": "PPBusinessComponent",
+  "version": "0.1.0",
+  "summary": "A short description of PPBusinessComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/haopf@rgnet.cn/PPBusinessComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haopf@rgnet.cn": "15090633612@163.com"
+  },
+  "source": {
+    "git": "https://github.com/haopf@rgnet.cn/PPBusinessComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PPBusinessComponent/Classes/**/*"
+}

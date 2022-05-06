@@ -1,0 +1,16 @@
+PODS:
+  - PPBusinessComponent (0.1.0)
+
+DEPENDENCIES:
+  - PPBusinessComponent (from `../`)
+
+EXTERNAL SOURCES:
+  PPBusinessComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PPBusinessComponent: e980d779054ba10e17ad4fcc61b2e27f44e849c8
+
+PODFILE CHECKSUM: f046e8807fc0f2465e46cb8f84c6ce6a4fb7d4a4
+
+COCOAPODS: 1.8.4
